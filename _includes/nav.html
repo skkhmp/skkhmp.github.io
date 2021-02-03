@@ -1,0 +1,16 @@
+<ul class="menu">
+
+    {% for munpyo in site.data.menu %}
+    {% if munpyo.subcategories != null %}
+    <li><a href="{{ munpyo.href }}" class="page-link">{{ munpyo.title }}</a>
+    <ul class="sub-menu">
+    {% for subcategory in munpyo.subcategories %}
+    <li><a href="{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
+    {% endfor %}
+    </ul>
+    {% else %}
+     <li><a href="{{ munpyo.href }}" class="page-link">{{ munpyo.title }}</a>
+    {% endif %}
+    </li>
+    {% endfor %}
+    </ul>
