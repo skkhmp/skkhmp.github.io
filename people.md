@@ -6,6 +6,10 @@ permalink: /people/
 
 # 재학생 Graduate Students
 
+{% include image.html url="/images/koo.jpg" width=150 height=250 align="left" %}
+## 구영은(Koo, Youngeun)
+
+
 
 {% include image.html url="/images/kim.jpg" width=150 height=250 align="left" %}
 
@@ -16,7 +20,7 @@ She joined the lab as an undergraduate student in 2016. She received her BA in G
 **Email**: kite92@skku.edu
 
 
-
+## 홍정표(Hong, Jungpyo)
 
 
 # 졸업생 Alumni
