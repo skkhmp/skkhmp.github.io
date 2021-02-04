@@ -6,7 +6,7 @@ permalink: /people/
 
 ## 재학생 Graduate Students
 
-{% include image.html url="/images/koo.jpg" width=150 height=230 align="left" %}
+{% include image.html url="/images/koo.jpg" width=150 height=250 align="left" %}
 ## 구영은(Koo, Youngeun)
 .   
 .   
@@ -27,7 +27,7 @@ She joined the lab as an undergraduate student in 2016. She received her BA in G
 
 
 <br />
-{% include image.html url="/images/profile.png" width=200 height=200 align="left" %}
+{% include image.html url="/images/profile.png" width=150 height=150 align="left" %}
 ## 홍정표(Hong, Jungpyo)
 <br />
 <br />
@@ -62,8 +62,10 @@ She joined the lab as an undergraduate student in 2016. She received her BA in G
 
 {% include image.html url="/images/profile.png" width=150 height=150 align="left" %}
 ## 장선주
-
-
 <br />
+<br />
+<br />
+<br />
+
 {% include image.html url="/images/profile.png" width=150 height=150 align="left" %}
 ## 지은별
