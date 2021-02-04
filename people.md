@@ -16,7 +16,7 @@ permalink: /people/
 **Email**: 
 
 
-
+<br />
 {% include image.html url="/images/kim.jpg" width=150 height=250 align="left" %}
 
 ## 김지연(Kim, Jiyoun)
@@ -26,6 +26,7 @@ She joined the lab as an undergraduate student in 2016. She received her BA in G
 **Email**: kite92@skku.edu
 
 
+<br />
 ## 홍정표(Hong, Jungpyo)
 
 
