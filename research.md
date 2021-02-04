@@ -20,11 +20,9 @@ The main application areas of Computational Linguistics are like the following a
 * Grammar and style checking
 * Document processing and information retrieval
 * Computer-Assisted Language Learning
-       
-        
+<br/><br/>   
 *****
-        
-        
+<br/><br/>
 # 기계 번역 Machine Translation(MT)
 기계 번역은 컴퓨터를 사용하여 한 언어의 텍스트를 다른 언어로 번역하는 작업이다. 본 연구실에서는 특히 한국어-독일어/스페인어/프랑스어 언어쌍을 대상으로 기계 번역의 관점에서 문제가 될 만한 언어학적 현상에 대한 연구를 통해 목표 언어의 번역 결과를 향상시키는 방향으로 연구를 진행하였다. 또한 한국어-영어 언어쌍을 대상으로 동시 통역에서 번역의 정확도와 번역의 속도를 고려한 최적의 분절 단위를 찾기 위한 연구를 진행하였다. 
 * 한국어 영형 대명사 복원
