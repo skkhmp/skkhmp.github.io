@@ -33,12 +33,16 @@ She joined the lab as an undergraduate student in 2016. She received her BA in G
 <br />
 <br />
 <br />
+<br />
+<br />
 
 ## 졸업생 Alumni
 {% include image.html url="/images/profile.png" width=150 height=150 align="left" %}
 
 ## 박아름
 **Email**: <remin2@skku.edu>
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -52,6 +56,8 @@ She joined the lab as an undergraduate student in 2016. She received her BA in G
 <br />
 <br />
 <br />
+<br />
+<br />
 
 {% include image.html url="/images/profile.png" width=150 height=150 align="left" %}
 ## 박신혜
@@ -59,9 +65,13 @@ She joined the lab as an undergraduate student in 2016. She received her BA in G
 <br />
 <br />
 <br />
+<br />
+<br />
 
 {% include image.html url="/images/profile.png" width=150 height=150 align="left" %}
 ## 장선주
+<br />
+<br />
 <br />
 <br />
 <br />
