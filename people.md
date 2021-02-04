@@ -8,12 +8,11 @@ permalink: /people/
 
 {% include image.html url="/images/koo.jpg" width=150 height=250 align="left" %}
 ## 구영은(Koo, Youngeun)
-  
-    
-      
-          
-             
-               
+..
+..
+..
+..
+
 **Email**: 
 
 
