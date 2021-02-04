@@ -11,7 +11,7 @@ permalink: /people/
 
 In 2016, she joined the lab as an undergraduate student. Her research interests are **computational semantics**, **computational pragmatics** and **machine translation**. 
 
-**Webpage**: [kim-ji-youn.github.io](kim-ji-youn.github.io)
+**Webpage**: [kim-ji-youn.github.io](kim-ji-youn.github.io)  
 **Email**: kite92@skku.edu
 
 
