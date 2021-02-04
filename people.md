@@ -23,7 +23,7 @@ permalink: /people/
 She joined the lab as an undergraduate student in 2016. She received her BA in German Language and Literature and BS in Software Engineering at Sungkyunkwan University, Korea. She recieved her MA in German Language and Literature at Sungkyunkwan University. She started PhD in 2020. Her research interests are **computational semantics**, **computational pragmatics** and **machine translation**. 
 
 **Webpage**: [kim-ji-youn.github.io](http://kim-ji-youn.github.io)     
-**Email**: kite92@skku.edu
+**Email**: <kite92@skku.edu>
 
 
 <br />
@@ -38,7 +38,7 @@ She joined the lab as an undergraduate student in 2016. She received her BA in G
 {% include image.html url="/images/profile.png" width=150 height=150 align="left" %}
 
 ## 박아름
-**Email**: remin2@skku.edu
+**Email**: <remin2@skku.edu>
 <br />
 <br />
 <br />
@@ -47,7 +47,7 @@ She joined the lab as an undergraduate student in 2016. She received her BA in G
 {% include image.html url="/images/profile.png" width=150 height=150 align="left" %}
 
 ## 임승희 
-**Email**: shlim902@gmail.com
+**Email**: <shlim902@gmail.com>
 <br />
 <br />
 <br />
