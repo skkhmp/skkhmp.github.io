@@ -3,17 +3,17 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
-* **지식학습기반의 다국어확장이 용이한 관광/국제행사 통역률 90%급 자동통번역 소프트웨어 원천기술개발**<br/>
+## **지식학습기반의 다국어확장이 용이한 관광/국제행사 통역률 90%급 자동통번역 소프트웨어 원천기술개발**<br/>
 ~~2012.06-2015.?~~<br/>
 한국전자통신연구원(ETRI)<br/>
 <br/>
 <br/>
-**음성인식 구어코퍼스 태깅기준 선행 연구 및 구축**<br/>
+#### **음성인식 구어코퍼스 태깅기준 선행 연구 및 구축**<br/>
 2014.10-2014.12<br/>
 (주) SK 텔레콤<br/>
 <br/>
 <br/>
-### **Semantic Processing을 위한 Meaning Representation방안-IPA & AES 개발을 위한 토대연구**<br/>
+##### **Semantic Processing을 위한 Meaning Representation방안-IPA & AES 개발을 위한 토대연구**<br/>
 2013.07-2013.12<br/>	
 (주) SK 텔레콤<br/>
 <br/>
