@@ -3,6 +3,11 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
+# 2020
+# 2019
+# 2018
+# 2017
+
 # 2016
 홍문표. (2016). "[대용어해소를 통한 독일어 텍스트 논조분석 방안](http://kiss.kstudy.com/thesis/thesis-view.asp?key=3473298)". 독일언어문학, 73(0), 147-166. <br/>
 Hong. M. (2016). "Anaphernresolution fur die Sentimentanalyse deutscher Texte". *Zeitschrift fur Deutsche Sprache und Literatur*, 73(0), 147-166.
@@ -35,4 +40,9 @@ Hong. M. (2014). Bigramm-basierte Sentimentanalyse. *Zeitschrift fur Deutsche Sp
 홍문표. (2013). "[독일어 텍스트 논조자동분석](http://kiss.kstudy.com/thesis/thesis-view.asp?key=3293461)". 독어학, 28(0), 361-383. <br/>
 Hong. M. (2013). "Automatische Sentimentanalyse deutscher Texte". *Koreanische Zeitschrift fur Deutsche Sprachwissenschaft*, 28(0), 361-383.
 
-
+# 2012
+# 2011
+# 2010
+# 2009
+# 2008
+# 2007
