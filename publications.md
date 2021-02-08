@@ -10,7 +10,7 @@ Hong. M. (2016). "Anaphernresolution fur die Sentimentanalyse deutscher Texte". 
 # 2015
 Park, A., Lim, S., & Hong, M. (2015). "[Zero object resolution in Korean](https://www.aclweb.org/anthology/Y15-1050.pdf)". In *Proceedings of the 29th Pacific Asia Conference on Language, Information and Computation*, 439-448.
 
-박아름, 홍문표. (2015). "한-독 기계번역을 위한 한국어 영형목적어 처리 연구". 독일언어문학, 70(0), 1-21. <br/>      
+박아름, 홍문표. (2015). "한-독 기계번역을 위한 한국어 영형목적어 처리 연구". 독일언어문학, 70(0), 1-21.<br/>
 Park, A., & Hong, M. (2015). Objektellipse im Koreanischen und deren Behandlung fur die maschinelle Ubersetzung ins Deutsche. *Zeitschrift fur Deutsche Sprache und Literatur*, 70(0), 1-21.     
 
 홍문표. (2015). "[독일어 트위터 문장의 규칙기반 논조분석 방안 연구](http://www.riss.or.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=037a059b0382821e4884a65323211ff0)". 한국독어학회, 32(0), 153-173. <br/>
