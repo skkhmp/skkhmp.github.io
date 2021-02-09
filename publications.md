@@ -3,10 +3,6 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-# 2020
-# 2019
-# 2018
-# 2017
 
 # 2016
 홍문표. (2016). "[대용어해소를 통한 독일어 텍스트 논조분석 방안](/papers/대용어해소를 통한 독일어 텍스트 논조분석 방안.pdf)". 독일언어문학, 73(0), 147-166. <br/>
@@ -18,7 +14,7 @@ Hong. M. (2016). "Automatische Klassifizierung von ironischen Ausdrucken fur die
 # 2015
 Park, A., Lim, S., & Hong, M. (2015). "[Zero object resolution in Korean](https://www.aclweb.org/anthology/Y15-1050.pdf)". In *Proceedings of the 29th Pacific Asia Conference on Language, Information and Computation*, 439-448.
 
-박아름, 홍문표. (2015). "한-독 기계번역을 위한 한국어 영형목적어 처리 연구". 독일언어문학, 70(0), 1-21.<br/>
+박아름, 홍문표. (2015). "[한-독 기계번역을 위한 한국어 영형목적어 처리 연구](/papers/한-독 기계번역을 위한 한국어 영형목적어 처리 연구.pdf)". 독일언어문학, 70(0), 1-21.<br/>
 Park, A., & Hong, M. (2015). Objektellipse im Koreanischen und deren Behandlung fur die maschinelle Ubersetzung ins Deutsche. *Zeitschrift fur Deutsche Sprache und Literatur*, 70(0), 1-21.     
 
 홍문표. (2015). "[독일어 트위터 문장의 규칙기반 논조분석 방안 연구](/papers/독일어 트위터 문장의 규칙기반 논조분석 방안 연구.pdf)". 한국독어학회, 32(0), 153-173. <br/>
@@ -27,7 +23,7 @@ Hong, M. (2015). Regelbasierte Sentimentanalyse von Twitter anhand eines Sentime
 홍문표. (2015). "[AntConc를 활용한 독일어 전문용어후보 자동추출방안](/papers/AntConc를 활용한 독일어 전문용어후보 자동추출방안.pdf)". 독일언어문학, 68(0), 21-42. <br/>
 Hong, M. (2015). Extraktion der Termkandidaten aus deutschen technischen Texten mithilfe von "AntConc". *Zeitschrift fur Deutsche Sprache und Literatur*, 68(0), 21-42.
 
-박아름, 홍문표. (2015) "[한-독 기계번역을 위한 한국어 영형 주어 처리연구](http://www.riss.or.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=c8e69d64922b89fde9810257f7042666)". 獨逸文學 56(1), 197-223. <br/>
+박아름, 홍문표. (2015) "[한-독 기계번역을 위한 한국어 영형 주어 처리연구](/papers/한-독 기계번역을 위한 한국어 영형 주어 처리연구.pdf)". 獨逸文學 56(1), 197-223. <br/>
 Park, A., & Hong, M. (2015). Subjektellipse im Koreanischen und deren Behandlung fur die maschinelle Ubersetzung ins Deutsche. *Dogil munhak*, 56(1), 197-233.
 
 # 2014
@@ -46,8 +42,10 @@ Hong. M. (2013). "Automatische Sentimentanalyse deutscher Texte". *Koreanische Z
 홍문표. (2013). "[기계학습에 기반한 문장의미의 주관성/객관성 자동분류 방법 -독일어 트위터 문장을 중심으로](/papers/기계학습에 기반한 문장의미의 주관성,객관성 자동분류 방법.pdf)". 독일언어문학, 61(0), 47-67.<br/>
 Hong. M. (2013). "Automatische Klassifizierung der Subjektivitat der Satzbedeutungen anhand von maschinellem Lernen". *Zeitschrift fur Deutsche Sprache und Literatur*, 61(0), 47-67.
 
-# 2012
 # 2011
+홍문표. (2011). "[한-독 대화체 기계번역을 위한 주어생략현상의 처리방안](/papers/한-독 대화체 기계번역을 위한 주어생략현상의 처리방안.pdf)". 독어학, 24(0), 417-439.<br/>
+Hong. M. (2011). "Subjektellipse im gesprochenen Koreanischen und deren Behandlung fur die maschinelle Ubersetzung ins Deutsche". *Koreanische Zeitschrift fur Deutsche Sprachwissenschaft*, 24(0), 417-439.
+
 # 2010
 홍문표, 신미영, 박신혜, 이형민. (2010). "[구문분석과 기계학습 기반 하이브리드 텍스트 논조 자동분석](/papers/구문분석과 기계학습 기반 하이브리드 텍스트 논조 자동분석.pdf)". 언어와 정보, 14(2), 159-181.<br/>
 Hong. M., Shin. M., Park. S., & Lee. H.(2010). "Hybrid Approach to Sentiment Analysis based on Syntactic Analysis and Machine Learning". *LANGUAGE AND INFORMATION*, 14(2), 159-181.
@@ -76,6 +74,10 @@ Hong. M. (2006). "Die Behandlung der adverbialen Postpositionen in der Maschinel
 # 2005
 홍문표. (2005). "[한-독 기계번역상의 연어처리 문제에 대해](/papers/한-독 기계번역상의 연어처리 문제에 대해.pdf)". 독일언어문학, 30(0), 39-60. <br/>
 Hong. M. (2005). "Uber die Kollokation in der maschinellen Ubersetzung Koreanisch-Deutsch". *Zeitschrift fur Deutsche Sprache und Literatur*, 30(0), 39-60.
+
+# 2004
+홍문표. (2004). "[한-독 기계번역의 대역어 선택 문제에 대하여](papers/한-독 기계번역의 대역어 선택 문제에 대하여.pdf". 독어독문학(구 독일문학), 91(0), 304-323. <br/>
+Hong. M. (2004). "Uber die Zielwortselektion in der maschinellen Ubersetzung Koreanisch-Deutsch". *Koreanische Zeitschrift fur Germanistik*, 91(0), 304-323.
 
 # 1999
 홍문표. (1999). "[UNL - 프로젝트에 대하여 - 독 / 영 기계 번역 시스템에 기반한 독일어 UNL - 분석기의 구현을 중심으로](/papers/UNL-프로젝트에 대하여_독영 기계 번역 시스템에 기반한 독일어 UNL-분석기의 구현을 중심으로.pdf)". 독어독문학(구 독일문학), 71(0), 550-573. <br/>
