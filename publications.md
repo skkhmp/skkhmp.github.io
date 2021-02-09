@@ -56,8 +56,11 @@ Hong. M., Shin. M., Park. S., & Lee. H.(2010). "Hybrid Approach to Sentiment Ana
 홍문표. (2009). "[자동논조분석 시스템 개발을 위한 독일어 텍스트의 논조별 어휘출현양상 연구](/papers/자동논조분석 시스템 개발을 위한 독일어 텍스트의 논조별 어휘출현양상 연구.pdf)". 독어독문학(구 독일문학), 111(0), 414-433.<br/>
 Hong. M. (2009). "Untersuchung zur Wortfrequenz in positiven/negativen Texten fur eine automatische Sentimentanalyse". *Koreanische Zeitschrift fur Germanistik*, 111(0), 414-433.
 
+홍문표. (2009). "[텍스트 논조결정 요인에 대한 전산언어학적 기초연구](/papers/텍스트 논조결정 요인에 대한 전산언어학적 기초연구.pdf)". 독어학, 20(0), 285-308.<br/>
+Hong. M. (2009). "Computerlinguistische Studie zu den Entscheidungsfaktoren der Textsentiments". *Koreanische Zeitschrift fur Deutsche Sprachwissenschaft*, 20(0), 285-308.
+
 # 2008
-홍문표. (2008). "[번역수월성의 관점에서 본 통제독일어, 통제영어, 통제한국어의 비교연구]("/papers/번역수월성의 관점에서 본 통제독일어, 통제영어, 통제한국어의 비교연구.pdf")". 독어독문학(구 독일문학), 107(0), 286-308. <br/>
+홍문표. (2008). "[번역수월성의 관점에서 본 통제독일어, 통제영어, 통제한국어의 비교연구](/papers/번역수월성의 관점에서 본 통제독일어, 통제영어, 통제한국어의 비교연구.pdf)". 독어독문학(구 독일문학), 107(0), 286-308. <br/>
 Hong. M. (2008). "Komparative Untersuchung uber Kontrolliertes Deutsch, Kontrolliertes Englisch und Kontrolliertes Koreanisch im Hinblick auf die Ubersetzbarkeit". *Koreanische Zeitschrift fur Germanistik*, 107(0), 286-308.
 
 # 2007
