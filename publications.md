@@ -21,10 +21,8 @@ Park, A., & Hong, M. (2015). Objektellipse im Koreanischen und deren Behandlung 
 홍문표. (2015). "[독일어 트위터 문장의 규칙기반 논조분석 방안 연구](http://www.riss.or.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=037a059b0382821e4884a65323211ff0)". 한국독어학회, 32(0), 153-173. <br/>
 Hong, M. (2015). Regelbasierte Sentimentanalyse von Twitter anhand eines Sentiment-Lexikons. *Koreanische Gesellschaft Fuer Deutsche Sprachwissenschaft*, 32(0), 153-173.
 
-홍문표. (2015). ""[AntConc"를 활용한 독일어 전문용어후보 자동추출방안](http://www.riss.or.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=b0f698b20df38d1e47de9c1710b0298d)". 독일언어문학 0(68), 21-42. <br/>
-Hong, M. (2015). Extraktion der Termkandidaten aus deutschen technischen Texten mithilfe von "AntConc". *Zeitschrift fur Deutsche Sprache und Literatur*, 0(68), 21-42.
-
-홍문표. (2015). ""[AntConc"를 활용한 독일어 전문용어후보 자동추출방안](/papers/AntConc를 활용한 독일어 전문용어후보 자동추출방안.pdf)
+홍문표. (2015). "[AntConc를 활용한 독일어 전문용어후보 자동추출방안](/papers/AntConc를 활용한 독일어 전문용어후보 자동추출방안.pdf)". 독일언어문학, 68(0), 21-42. <br/>
+Hong, M. (2015). Extraktion der Termkandidaten aus deutschen technischen Texten mithilfe von "AntConc". *Zeitschrift fur Deutsche Sprache und Literatur*, 68(0), 21-42.
 
 박아름, 홍문표. (2015) "[한-독 기계번역을 위한 한국어 영형 주어 처리연구](http://www.riss.or.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=c8e69d64922b89fde9810257f7042666)". 獨逸文學 56(1), 197-223. <br/>
 Park, A., & Hong, M. (2015). Subjektellipse im Koreanischen und deren Behandlung fur die maschinelle Ubersetzung ins Deutsche. *Dogil munhak*, 56(1), 197-233.
@@ -48,3 +46,7 @@ Hong. M. (2013). "Automatische Sentimentanalyse deutscher Texte". *Koreanische Z
 # 2009
 # 2008
 # 2007
+
+# 1999
+홍문표. (1999). "[UNL - 프로젝트에 대하여 - 독 / 영 기계 번역 시스템에 기반한 독일어 UNL - 분석기의 구현을 중심으로](papers/UNL-프로젝트에 대하여_독영 기계 번역 시스템에 기반한 독일어 UNL-분석기의 구현을 중심으로)". 독어독문학(구 독일문학), 71(0), 550-573. <br/>
+Hong. M. (1999). "Die Implementierung eines UNL-Enconverters fur das Deutsche auf der Basis eines maschinellen Deutsch-Englisch Ubersetzungssystems". *Koreanische Zeitschrift fur Germanistik*, 71(0), 550-573.
