@@ -51,7 +51,11 @@ Hong. M. (2013). "Automatische Klassifizierung der Subjektivitat der Satzbedeutu
 # 2010
 홍문표, 신미영, 박신혜, 이형민. (2010). "[구문분석과 기계학습 기반 하이브리드 텍스트 논조 자동분석](/papers/구문분석과 기계학습 기반 하이브리드 텍스트 논조 자동분석.pdf)". 언어와 정보, 14(2), 159-181.<br/>
 Hong. M., Shin. M., Park. S., & Lee. H.(2010). "Hybrid Approach to Sentiment Analysis based on Syntactic Analysis and Machine Learning". *LANGUAGE AND INFORMATION*, 14(2), 159-181.
+
 # 2009
+홍문표. (2009). "자동논조분석 시스템 개발을 위한 독일어 텍스트의 논조별 어휘출현양상 연구". 독어독문학(구 독일문학), 111(0), 414-433.<br/>
+Hong. M. (2009). "Untersuchung zur Wortfrequenz in positiven/negativen Texten fur eine automatische Sentimentanalyse". *Koreanische Zeitschrift fur Germanistik*, 111(0), 414-433.
+
 # 2008
 # 2007
 
