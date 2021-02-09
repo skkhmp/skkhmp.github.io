@@ -12,6 +12,9 @@ permalink: /publications/
 홍문표. (2016). "[대용어해소를 통한 독일어 텍스트 논조분석 방안](http://kiss.kstudy.com/thesis/thesis-view.asp?key=3473298)". 독일언어문학, 73(0), 147-166. <br/>
 Hong. M. (2016). "Anaphernresolution fur die Sentimentanalyse deutscher Texte". *Zeitschrift fur Deutsche Sprache und Literatur*, 73(0), 147-166.
 
+홍문표. (2016). "[논조분석을 위한 반어의미 문장 자동분류](/papers/논조분석을 위한 반어의미 문장 자동분류.pdf)". 독어학, 33(0), 157-179.<br/>
+Hong. M. (2016). "Automatische Klassifizierung von ironischen Ausdrucken fur die Sentimentanalyse". *Koreanische Zeitschrift fur Deutsche Sprachwissenschaft*, 33(0), 157-179.
+
 # 2015
 Park, A., Lim, S., & Hong, M. (2015). "[Zero object resolution in Korean](https://www.aclweb.org/anthology/Y15-1050.pdf)". In *Proceedings of the 29th Pacific Asia Conference on Language, Information and Computation*, 439-448.
 
@@ -40,7 +43,7 @@ Hong. M. (2014). Bigramm-basierte Sentimentanalyse. *Zeitschrift fur Deutsche Sp
 홍문표. (2013). "[독일어 텍스트 논조자동분석](http://kiss.kstudy.com/thesis/thesis-view.asp?key=3293461)". 독어학, 28(0), 361-383. <br/>
 Hong. M. (2013). "Automatische Sentimentanalyse deutscher Texte". *Koreanische Zeitschrift fur Deutsche Sprachwissenschaft*, 28(0), 361-383.
 
-홍문표. (2013). "[기계학습에 기반한 문장의미의 주관성/객관성 자동분류 방법 -독일어 트위터 문장을 중심으로](/papers/기계학습에 기반한 문장의미의 주관성,객관성 자동분류 방법.pdf)". 독일언어문학, 61(0), 47-67.
+홍문표. (2013). "[기계학습에 기반한 문장의미의 주관성/객관성 자동분류 방법 -독일어 트위터 문장을 중심으로](/papers/기계학습에 기반한 문장의미의 주관성,객관성 자동분류 방법.pdf)". 독일언어문학, 61(0), 47-67.<br/>
 Hong. M. (2013). "Automatische Klassifizierung der Subjektivitat der Satzbedeutungen anhand von maschinellem Lernen". *Zeitschrift fur Deutsche Sprache und Literatur*, 61(0), 47-67.
 
 # 2012
