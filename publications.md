@@ -33,7 +33,7 @@ Park, A., & Hong, M. (2015). Subjektellipse im Koreanischen und deren Behandlung
 # 2014
 Park, A., & Hong, M. (2014). "[Hybrid Approach to Zero Subject Resolution for multilingual MT-Spanish-to-Korean Cases](https://www.aclweb.org/anthology/Y14-1031.pdf)". In *Proceedings of the 28th Pacific Asia Conference on Language, Information and Computing*, 254-261. 
 
-홍문표. (2014). "[독일어 감정사전을 활용한 감성분석](http://kiss.kstudy.com/thesis/thesis-view.asp?key=3328503)". 독어학, 30(0), 173-195. <br/>
+홍문표. (2014). "[독일어 감정사전을 활용한 감성분석](/papers/독일어 감정사전을 활용한 감성분석.pdf)". 독어학, 30(0), 173-195. <br/>
 Hong. M. (2014). "Automatische Sentimentanalyse der deutschen Texte anhand eines Sentiment-Lexikons". *Koreanische Zeitschrift fur Deutsche Sprachwissenschaft*, 30(0), 173-195.
 
 홍문표. (2014). 바이그램을 활용한 텍스트 논조자동분석. 독일언어문학, 65(0), 27-46. <br/>
