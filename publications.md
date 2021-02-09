@@ -9,7 +9,7 @@ permalink: /publications/
 # 2017
 
 # 2016
-홍문표. (2016). "[대용어해소를 통한 독일어 텍스트 논조분석 방안](http://kiss.kstudy.com/thesis/thesis-view.asp?key=3473298)". 독일언어문학, 73(0), 147-166. <br/>
+홍문표. (2016). "[대용어해소를 통한 독일어 텍스트 논조분석 방안](/papers/대용어해소를 통한 독일어 텍스트 논조분석 방안.pdf)". 독일언어문학, 73(0), 147-166. <br/>
 Hong. M. (2016). "Anaphernresolution fur die Sentimentanalyse deutscher Texte". *Zeitschrift fur Deutsche Sprache und Literatur*, 73(0), 147-166.
 
 홍문표. (2016). "[논조분석을 위한 반어의미 문장 자동분류](/papers/논조분석을 위한 반어의미 문장 자동분류.pdf)". 독어학, 33(0), 157-179.<br/>
