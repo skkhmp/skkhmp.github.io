@@ -42,16 +42,24 @@ Hong. M. (2013). "Automatische Sentimentanalyse deutscher Texte". *Koreanische Z
 홍문표. (2013). "[기계학습에 기반한 문장의미의 주관성/객관성 자동분류 방법 -독일어 트위터 문장을 중심으로](/papers/기계학습에 기반한 문장의미의 주관성,객관성 자동분류 방법.pdf)". 독일언어문학, 61(0), 47-67.<br/>
 Hong. M. (2013). "Automatische Klassifizierung der Subjektivitat der Satzbedeutungen anhand von maschinellem Lernen". *Zeitschrift fur Deutsche Sprache und Literatur*, 61(0), 47-67.
 
+# 2012
+Shin. M., Lee. H., & Hong. M. (2012) "[A hybrid approach to gene ranking using gene relation networks derived from literature for the identification of disease gene markers.](http://www.inderscience.com/offer.php?id=49250)" *International Journal of Data Mining and Bioinformatics (IJDMB)*, 6(3), 239-54.
+
 # 2011
 홍문표. (2011). "[한-독 대화체 기계번역을 위한 주어생략현상의 처리방안](/papers/한-독 대화체 기계번역을 위한 주어생략현상의 처리방안.pdf)". 독어학, 24(0), 417-439.<br/>
 Hong. M. (2011). "Subjektellipse im gesprochenen Koreanischen und deren Behandlung fur die maschinelle Ubersetzung ins Deutsche". *Koreanische Zeitschrift fur Deutsche Sprachwissenschaft*, 24(0), 417-439.
 
 # 2010
+Lee. H., Shin. M., & Hong. M. (2010) "[A gene ranking method using text-mining for the identification of disease related genes](https://ieeexplore.ieee.org/document/5706616)," *2010 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*, Hong Kong, 493-498, doi: <10.1109/BIBM.2010.5706616>.
+
 홍문표, 신미영, 박신혜, 이형민. (2010). "[구문분석과 기계학습 기반 하이브리드 텍스트 논조 자동분석](/papers/구문분석과 기계학습 기반 하이브리드 텍스트 논조 자동분석.pdf)". 언어와 정보, 14(2), 159-181.<br/>
 Hong. M., Shin. M., Park. S., & Lee. H.(2010). "Hybrid Approach to Sentiment Analysis based on Syntactic Analysis and Machine Learning". *LANGUAGE AND INFORMATION*, 14(2), 159-181.
 
 홍문표. (2010). "[통제언어의 관점에서 본 가독성과 번역수월성의 관계에 대한 연구](/papers/통제언어의 관점에서 본 가독성과 번역수월성의 관계에 대한 연구.pdf)". 독일언어문학, 48(0), 1-23. <br/>
 Hong. M. (2010). "Untersuchung zu den Beziehungen zwischen Lesbarkeit und Ubersetzbarkeit aus der Perspektive einer kontrollierten Sprache". *Zeitschrift fur Deutsche Sprache und Literatur*, 48(0), 1-23.
+
+홍문표. (2010). "Pre-editing oder Post-editing? -통제언어와 포스트에디팅을 통한 독-한 기계번역시스템의 실무적용 가능성에 대하여-". 독어학, 21(0), 251-273. <br/>
+Hong. M. (2010). "Inhaltsverzeichnis : Pre-editing oder Post-editing? -Uber die Einsatzbarkeit eines Deutsch-Koreanisch MU Systems mithilfe der kontrollierten Sprache und des Post-editings". *Koreanische Zeitschrift fur Deutsche Sprachwissenschaft*, 21(0), 251-273.
 
 # 2009
 홍문표. (2009). "[자동논조분석 시스템 개발을 위한 독일어 텍스트의 논조별 어휘출현양상 연구](/papers/자동논조분석 시스템 개발을 위한 독일어 텍스트의 논조별 어휘출현양상 연구.pdf)". 독어독문학(구 독일문학), 111(0), 414-433.<br/>
