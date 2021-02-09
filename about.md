@@ -3,6 +3,12 @@ layout: page
 title: About
 permalink: /about/
 ---
+## 관심분야 Research Interest
+* 전산 언어학 Computational Linguistics
+* 의미 분석 Semantic Analysis
+* 기계 번역 Machine Translation
+* 언어 자원 Linguistic Resource
+
 ## 학력
 * 서울대학교 독어독문학과 학사
 * 서울대학교 독어독문학과 석사
