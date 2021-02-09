@@ -23,10 +23,7 @@ Koo, Y., Kim, J., Hong, J., Hong, M., & Choi, S-K. (2019). "A Study of Segmentat
 Koo, Y., Kim, J., Hong, M., & Kim, Y. (2018) "A Linguistic Study of Speech Act and Automatic Speech Act Classification for Korean Tutorial Dialog". *Journal of KIISE*, 45(8), 807-815. 
 
 # 2017
-구영은, 홍문표. (2017). "[독일어 대화체 문장의 화행 분석과 화행 자동분류에 대한 연구](/papers/)". 한국언어정보학회. 2017년 가을 정기 학술대회. <br/>
-Koo. Y., & Hong, M. (2017).  "A Study of Speech Act Classification for German Dialog", In *Proceeding of the Korean Society for Language and Information*.
-
-구영은, 김지연, 홍문표, 김영길. (2017). "[한국어 대화문 화행 자동분류를 위한 언어학적 기반연구](/papers/한국어 대화문 화행 자동분류를 위한 언어학적 기반연구.pdf". 제 29회 한글 및 한국어 정보처리 학술대회. 29. 17-22.<br/>
+구영은, 김지연, 홍문표, 김영길. (2017). "[한국어 대화문 화행 자동분류를 위한 언어학적 기반연구](/papers/한국어 대화문 화행 자동분류를 위한 언어학적 기반연구.pdf)". 제 29회 한글 및 한국어 정보처리 학술대회. 29. 17-22.<br/>
 Koo, Y., Kim, J., Hong, M., & Kim, Y. (2017). "A Linguistic Study of Automatic Speech Act Classification for Korean Dialog", In *Proceeding of the 29th Annual Conference on Human & Cognitive Language Technology*. 29(0), 17-22. 
 
 # 2016
