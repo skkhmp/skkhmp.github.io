@@ -57,6 +57,9 @@ Hong. M., Shin. M., Park. S., & Lee. H.(2010). "Hybrid Approach to Sentiment Ana
 Hong. M. (2009). "Untersuchung zur Wortfrequenz in positiven/negativen Texten fur eine automatische Sentimentanalyse". *Koreanische Zeitschrift fur Germanistik*, 111(0), 414-433.
 
 # 2008
+홍문표. (2008). "[번역수월성의 관점에서 본 통제독일어, 통제영어, 통제한국어의 비교연구]("/papers/번역수월성의 관점에서 본 통제독일어, 통제영어, 통제한국어의 비교연구.pdf")". 독어독문학(구 독일문학), 107(0), 286-308. <br/>
+Hong. M. (2008). "Komparative Untersuchung uber Kontrolliertes Deutsch, Kontrolliertes Englisch und Kontrolliertes Koreanisch im Hinblick auf die Ubersetzbarkeit". *Koreanische Zeitschrift fur Germanistik*, 107(0), 286-308.
+
 # 2007
 
 # 1999
