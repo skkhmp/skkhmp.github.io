@@ -76,7 +76,7 @@ Hong. M. (2006). "Die Behandlung der adverbialen Postpositionen in der Maschinel
 Hong. M. (2005). "Uber die Kollokation in der maschinellen Ubersetzung Koreanisch-Deutsch". *Zeitschrift fur Deutsche Sprache und Literatur*, 30(0), 39-60.
 
 # 2004
-홍문표. (2004). "[한-독 기계번역의 대역어 선택 문제에 대하여](papers/한-독 기계번역의 대역어 선택 문제에 대하여.pdf". 독어독문학(구 독일문학), 91(0), 304-323. <br/>
+홍문표. (2004). "[한-독 기계번역의 대역어 선택 문제에 대하여](papers/한-독 기계번역의 대역어 선택 문제에 대하여.pdf)". 독어독문학(구 독일문학), 91(0), 304-323. <br/>
 Hong. M. (2004). "Uber die Zielwortselektion in der maschinellen Ubersetzung Koreanisch-Deutsch". *Koreanische Zeitschrift fur Germanistik*, 91(0), 304-323.
 
 # 1999
