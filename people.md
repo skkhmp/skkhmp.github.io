@@ -12,7 +12,7 @@ permalink: /people/
 
 She received her B.A. and M.A. in German Language and Literature at Sungkyunkwan University, Korea. She started Ph.D. in 2018 and currently working on her Ph.D. dissertation. Her research interests are **computational pragmatics**, **conversational analysis**, **dialog system**, **chatbot** and **simultaneous interpretation**.
 
-**Email**:<sarah8835@skku.edu>   **[CV(Eng)](/cv/koo_eng)**  **[CV(Kor)](/cv/koo_kor)**
+**Email**:<sarah8835@skku.edu>   **[CV(Eng)](/cv/koo_eng.pdf)**  **[CV(Kor)](/cv/koo_kor.pdf)**
 
 <br />
 {% include image.html url="/images/kim.jpg" width=200 height=400 align="left" %}
