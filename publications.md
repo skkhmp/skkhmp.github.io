@@ -45,9 +45,15 @@ Hong, M. (2013). "Automatische Klassifizierung der Subjektivitat der Satzbedeutu
 # 2012
 Shin, M., Lee, H., & Hong, M. (2012) "[A hybrid approach to gene ranking using gene relation networks derived from literature for the identification of disease gene markers.](http://www.inderscience.com/offer.php?id=49250)" *International Journal of Data Mining and Bioinformatics (IJDMB)*, 6(3), 239-54.
 
+박아름, 지은별, 홍문표 (2012). "[제품 설명서에 나타나는 중의적 명사 수식 구문 연구 - 통제 언어의 관점에서-](https://www.koreascience.or.kr/article/CFKO201208355727433.pdf)". 한국정보과학회 언어공학연구회 학술대회논문집. 한글 및 한국어 정보처리. 23-28.
+Park, A., Ji, E., & Hong, M. (2012). "A study on the ambiguous adnominal constructions in product documentation". In *Annual Conference on Human and Language Technology*. Human and Language Technology. 23-28.
+
 # 2011
 홍문표. (2011). "[한-독 대화체 기계번역을 위한 주어생략현상의 처리방안](/papers/한-독 대화체 기계번역을 위한 주어생략현상의 처리방안.pdf)". 독어학, 24(0), 417-439.<br/>
 Hong, M. (2011). "Subjektellipse im gesprochenen Koreanischen und deren Behandlung fur die maschinelle Ubersetzung ins Deutsche". *Koreanische Zeitschrift fur Deutsche Sprachwissenschaft*, 24(0), 417-439.
+
+박아름, 지은별, 홍문표 (2011). "[한국어-영어 대화체 번역시스템을 위한 영형 대명사 해소](https://www.koreascience.or.kr/article/CFKO201108355727539.pdf)". 한글 및 한국어 정보처리. 98-101. <br/>
+Park, A., Ji, E., & Hong, M. (2011). "Zero Pronoun Resolution for Korean-English Spoken Language MT". In *Annual Conference on Human and Language Technology*. Human and Language Technology. 98-101.
 
 # 2010
 Lee., H., Shin, M., & Hong, M. (2010) "[A gene ranking method using text-mining for the identification of disease related genes](https://ieeexplore.ieee.org/document/5706616)," *2010 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*, Hong Kong, 493-498, doi: <10.1109/BIBM.2010.5706616>.
