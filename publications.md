@@ -43,6 +43,8 @@ Hong. M. (2013). "Automatische Sentimentanalyse deutscher Texte". *Koreanische Z
 # 2012
 # 2011
 # 2010
+홍문표, 신미영, 박신혜, 이형민. (2010). "[구문분석과 기계학습 기반 하이브리드 텍스트 논조 자동분석](/papers/구문분석과 기계학습 기반 하이브리드 텍스트 논조 자동분석.pdf)". 언어와 정보, 14(2), 159-181.<br/>
+Hong. M., Shin. M., Park. S., & Lee. H.(2010). "Hybrid Approach to Sentiment Analysis based on Syntactic Analysis and Machine Learning". *LANGUAGE AND INFORMATION*, 14(2), 159-181.
 # 2009
 # 2008
 # 2007
