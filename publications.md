@@ -64,7 +64,7 @@ Hong, M., Shin, M., Park, S., & Lee, H.(2010). "Hybrid Approach to Sentiment Ana
 홍문표. (2010). "[통제언어의 관점에서 본 가독성과 번역수월성의 관계에 대한 연구](/papers/통제언어의 관점에서 본 가독성과 번역수월성의 관계에 대한 연구.pdf)". 독일언어문학, 48(0), 1-23. <br/>
 Hong, M. (2010). "Untersuchung zu den Beziehungen zwischen Lesbarkeit und Ubersetzbarkeit aus der Perspektive einer kontrollierten Sprache". *Zeitschrift fur Deutsche Sprache und Literatur*, 48(0), 1-23.
 
-홍문표. (2010). "Pre-editing oder Post-editing? -통제언어와 포스트에디팅을 통한 독-한 기계번역시스템의 실무적용 가능성에 대하여-". 독어학, 21(0), 251-273. <br/>
+홍문표. (2010). "[Pre-editing oder Post-editing? -통제언어와 포스트에디팅을 통한 독-한 기계번역시스템의 실무적용 가능성에 대하여-](/papers/Pre-editing oder Post-editing -통제언어와 포스트에디팅을 통한 독-한 기계번역시스템의 실무적용 가능성에 대하여-)". 독어학, 21(0), 251-273. <br/>
 Hong, M. (2010). "Inhaltsverzeichnis : Pre-editing oder Post-editing? -Uber die Einsatzbarkeit eines Deutsch-Koreanisch MU Systems mithilfe der kontrollierten Sprache und des Post-editings". *Koreanische Zeitschrift fur Deutsche Sprachwissenschaft*, 21(0), 251-273.
 
 # 2009
