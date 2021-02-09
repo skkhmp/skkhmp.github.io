@@ -69,7 +69,9 @@ Hong. M. (2008). "Komparative Untersuchung uber Kontrolliertes Deutsch, Kontroll
 홍문표. (2008). "[통제독일어가 번역수월성 향상에 미치는 영향에 대한 연구](/papers/통제독일어가 번역수월성 향상에 미치는 영향에 대한 연구.pdf)". 독일언어문학, 40(0), 21-43.<br/>
 Hong. M. (2008). "Uber die Moglichkeit zur Verbesserung der Ubersetzbarkeit durch Kontrollierts Deutsch". *Zeitschrift fur Deutsche Sprache und Literatur*, 40(0), 21-43.
 
-# 2007
+# 2006
+홍문표. (2006). "[한국어 부사격 조사와 독일어 전치사간의 기계번역문제에 대하여](/papers/한국어 부사격 조사와 독일어 전치사간의 기계번역문제에 대하여.pdf)". 독어독문학(구 독일문학), 97(0), 277-296.
+Hong. M. (2006). "Die Behandlung der adverbialen Postpositionen in der Maschinellen Ubersetzung Koreanisch-Deutsch". *Koreanische Zeitschrift fur Germanistik*, 97(0), 277-296.
 
 # 1999
 홍문표. (1999). "[UNL - 프로젝트에 대하여 - 독 / 영 기계 번역 시스템에 기반한 독일어 UNL - 분석기의 구현을 중심으로](/papers/UNL-프로젝트에 대하여_독영 기계 번역 시스템에 기반한 독일어 UNL-분석기의 구현을 중심으로.pdf)". 독어독문학(구 독일문학), 71(0), 550-573. <br/>
