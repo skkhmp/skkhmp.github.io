@@ -36,7 +36,7 @@ Park, A., & Hong, M. (2014). "[Hybrid Approach to Zero Subject Resolution for mu
 홍문표. (2014). "[독일어 감정사전을 활용한 감성분석](/papers/독일어 감정사전을 활용한 감성분석.pdf)". 독어학, 30(0), 173-195. <br/>
 Hong. M. (2014). "Automatische Sentimentanalyse der deutschen Texte anhand eines Sentiment-Lexikons". *Koreanische Zeitschrift fur Deutsche Sprachwissenschaft*, 30(0), 173-195.
 
-홍문표. (2014). 바이그램을 활용한 텍스트 논조자동분석. 독일언어문학, 65(0), 27-46. <br/>
+홍문표. (2014). "[바이그램을 활용한 텍스트 논조자동분석](/papers/바이그램을 활용한 텍스트 논조자동분석.pdf)". 독일언어문학, 65(0), 27-46. <br/>
 Hong. M. (2014). Bigramm-basierte Sentimentanalyse. *Zeitschrift fur Deutsche Sprache und Literatur*, 65(0), 27-46.
 
 # 2013
