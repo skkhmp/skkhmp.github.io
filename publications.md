@@ -6,7 +6,7 @@ permalink: /publications/
 # 2020
 Koo, Y., Kim, J., Hong, J., Hong, M., & Choi. S-K. (2020). “[Towards a Linguistically Motivated Segmentation for a Simultaneous Interpretation System](/papers/Towards a Linguistically Motivated Segmentation for a Simultaneous Interpretation System.pdf)”, In *Proceeding of the 34th Pacific Asia Conference on Language, Information and Computation*, 2020.
 
-구영은, 김지연, 홍정표, 홍문표, 최승권. (2020). "[발화자별 발화 속도를 고려한 실시간 동시통역 분절 방법론](/papers/)", 제 32회 한글 및 한국어 정보처리 학술대회, 32(0), 369-374.
+구영은, 김지연, 홍정표, 홍문표, 최승권. (2020). "[발화자별 발화 속도를 고려한 실시간 동시통역 분절 방법론](/papers/발화자별 발화 속도를 고려한 실시간 동시통역 분절 방법론.pdf)", 제 32회 한글 및 한국어 정보처리 학술대회, 32(0), 369-374.
 Koo, Y., Kim, J., Hong, H., Hong, M., & Choi, S-K. (2020). "Segmentation Methods for Different Speech Rate in Simultaneous Interpretation", In *Proceeding of the 32nd Annual Conference on Human & Cognitive Language Technology(HCLT)*, 32(0), 369-374.
 
 # 2019
@@ -15,7 +15,7 @@ Koo, Y., Kim, J., & Hong, M., (2019). "[Automatic Speech Act Classification of K
 구영은, 홍문표. (2019). "[범도메인 대화에서의 화행 자동분류 - 독일어 수업 대화와 전화 대화 분석을 통한 화행유형의 계층구조 제안](/papers/범도메인 대화에서의 화행 자동분류.pdf)". 독어학, 39(0), 25-49. <br/>
 Koo, Y., & Hong, M. (2019). "Automatische Klassifikation von Sprechakten in Domänenunabhängigen Gesprächen". *Koreanische Zeitschrift fur Deutsche Sprachwissenschaft*, 39(0), 25-49.
 
-구영은, 김지연, 홍정표, 홍문표, 최승권. (2019). "[실시간 동시통역 시스템 개발을 위한 통역 분절 단위 연구](/papers/)", 한글 및 한국어 정보처리 학술대회(HCLT). 31(0), 229-235. <br/>
+구영은, 김지연, 홍정표, 홍문표, 최승권. (2019). "[실시간 동시통역 시스템 개발을 위한 통역 분절 단위 연구](/papers/실시간 동시통역 시스템 개발을 위한 통역 분절단위 연구.pdf)", 한글 및 한국어 정보처리 학술대회(HCLT). 31(0), 229-235. <br/>
 Koo, Y., Kim, J., Hong, J., Hong, M., & Choi, S-K. (2019). "A Study of Segmentation Unit for the Real-time Simultaneous Interpretation System". In *Proceeding of the 31th Annual Conference on Human & Cognitive Language Technology*, 31(0), 229-235.
 
 # 2018
