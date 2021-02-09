@@ -63,6 +63,9 @@ Hong. M. (2009). "Computerlinguistische Studie zu den Entscheidungsfaktoren der 
 홍문표. (2008). "[번역수월성의 관점에서 본 통제독일어, 통제영어, 통제한국어의 비교연구](/papers/번역수월성의 관점에서 본 통제독일어, 통제영어, 통제한국어의 비교연구.pdf)". 독어독문학(구 독일문학), 107(0), 286-308. <br/>
 Hong. M. (2008). "Komparative Untersuchung uber Kontrolliertes Deutsch, Kontrolliertes Englisch und Kontrolliertes Koreanisch im Hinblick auf die Ubersetzbarkeit". *Koreanische Zeitschrift fur Germanistik*, 107(0), 286-308.
 
+홍문표. (2008). "[통제독일어가 번역수월성 향상에 미치는 영향에 대한 연구](/papers/통제독일어가 번역수월성 향상에 미치는 영향에 대한 연구.pdf)". 독일언어문학, 40(0), 21-43.<br/>
+Hong. M. (2008). "Uber die Moglichkeit zur Verbesserung der Ubersetzbarkeit durch Kontrollierts Deutsch". *Zeitschrift fur Deutsche Sprache und Literatur*, 40(0), 21-43.
+
 # 2007
 
 # 1999
