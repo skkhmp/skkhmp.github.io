@@ -12,25 +12,21 @@ permalink: /people/
 
 She received my BA and MA in German Language and Literature at Sungkyunkwan University, Korea. She started Ph.D. in 2018 and currently working on her Ph.D. dissertation. Her research interests are **computational pragmatics**, **conversational analysis**, **dialog system**, **chatbot** and **simultaneous interpretation**.
 
-**Email**:<sarah8835@skku.edu> <br/>
-**[CV(Eng)](/cv/koo_eng)** <br/>
-**[CV(Kor)](/cv/koo_kor)**
+**Email**:<sarah8835@skku.edu>   **[CV(Eng)](/cv/koo_eng)**  **[CV(Kor)](/cv/koo_kor)**
 
 <br />
-{% include image.html url="/images/kim.jpg" width=150 height=250 align="left" %}
+{% include image.html url="/images/kim.jpg" width=200 height=400 align="left" %}
 
 ## 김지연(Kim, Jiyoun)
 김지연은 2016년 학부 연구생으로 연구실에 합류하였습니다. 성균관대학교 독어독문과와 소프트웨어 융합전공을 전공하여 학부를 마치고, 성균관대학교 독어독문학과에서 석사 학위를 수여하였습니다.  2020년부터 박사 과정을 시작하였습니다. 관심 연구분야는 **전산 의미론, 전산 화용론, 비유언어, 기계번역** 입니다. 
 
 She joined the lab as an undergraduate student in 2016. She received her BA in German Language and Literature and BS in Software Engineering at Sungkyunkwan University, Korea. She recieved her MA in German Language and Literature at Sungkyunkwan University. She started Ph.D. in 2020. Her research interests are **computational semantics**, **computational pragmatics**, **figurative languages** and **machine translation**. 
 
-**Email**: <kite92@skku.edu> <br/>
-**Webpage**: [kim-ji-youn.github.io](http://kim-ji-youn.github.io)     
-**[CV(Eng)](/cv/kim_eng)**
+**Email**: <kite92@skku.edu> **Webpage**: [kim-ji-youn.github.io](http://kim-ji-youn.github.io)  **[CV(Eng)](/cv/kim_eng)**
 
 
 <br />
-{% include image.html url="/images/hongjung.jpg" width=150 height=250 align="left" %}
+{% include image.html url="/images/hongjung.jpg" width=200 height=400 align="left" %}
 
 ## 홍정표(Hong, Jungpyo)
 홍정표는 성균관대학교에서 독어독문학과 융합언어학으로 학사 과정을 마쳤습니다. 2019년 봄 학기에 연구실에 합류하였으며, 같은 해 여름에 대학원에 진학하였습니다. 관심 연구분야는 **텍스트 감정 분석**이며, 자연어에서 감정이 어떻게 표현되고 인식되는지에 관심이 있습니다.
