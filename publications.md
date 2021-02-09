@@ -3,6 +3,9 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
+# 2019
+구영은, 홍문표. (2019). "[범도메인 대화에서의 화행 자동분류 - 독일어 수업 대화와 전화 대화 분석을 통한 화행유형의 계층구조 제안](/papers/범도메인 대화에서의 화행 자동분류.pdf)". 독어학, 39(0), 25-49. <br/>
+Koo, Y., & Hong, M. (2019). "Automatische Klassifikation von Sprechakten in Domänenunabhängigen Gesprächen". *Koreanische Zeitschrift fur Deutsche Sprachwissenschaft*, 39(0), 25-49.
 
 # 2016
 홍문표. (2016). "[대용어해소를 통한 독일어 텍스트 논조분석 방안](/papers/대용어해소를 통한 독일어 텍스트 논조분석 방안.pdf)". 독일언어문학, 73(0), 147-166. <br/>
