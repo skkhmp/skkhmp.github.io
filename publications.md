@@ -40,6 +40,9 @@ Hong. M. (2014). Bigramm-basierte Sentimentanalyse. *Zeitschrift fur Deutsche Sp
 홍문표. (2013). "[독일어 텍스트 논조자동분석](http://kiss.kstudy.com/thesis/thesis-view.asp?key=3293461)". 독어학, 28(0), 361-383. <br/>
 Hong. M. (2013). "Automatische Sentimentanalyse deutscher Texte". *Koreanische Zeitschrift fur Deutsche Sprachwissenschaft*, 28(0), 361-383.
 
+홍문표. (2013). "[기계학습에 기반한 문장의미의 주관성/객관성 자동분류 방법 -독일어 트위터 문장을 중심으로](/papers/기계학습에 기반한 문장의미의 주관성,객관성 자동분류 방법.pdf)". 독일언어문학, 61(0), 47-67.
+Hong. M. (2013). "Automatische Klassifizierung der Subjektivitat der Satzbedeutungen anhand von maschinellem Lernen". *Zeitschrift fur Deutsche Sprache und Literatur*, 61(0), 47-67.
+
 # 2012
 # 2011
 # 2010
