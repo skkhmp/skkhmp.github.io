@@ -4,13 +4,12 @@ title: Teaching
 permalink: /teaching/
 ---
 # 학부수업 Undergraduate Courses
-### GER3025 독어학개론 II
-독어학개론 II에서는 독어학개론 I에 이어서 독일어 의미론,화용론 및 역사 언어학을 체계적으로 살펴보는 한편 언어사용과 관련되는 응용 언어학 제 분야를 간략하게 개괄한다.
-
-### GER3025 Introduction to German Linguistics II
-In this course, German semantics, pragmatics and the history of German are treated. It will also provide an introduction to Applied Linguistics.
-
-
+**GER3025 독어학개론 II** <br/>
+독어학개론 II에서는 독어학개론 I에 이어서 독일어 의미론,화용론 및 역사 언어학을 체계적으로 살펴보는 한편 언어사용과 관련되는 응용 언어학 제 분야를 간략하게 개괄한다. <br/>
+**GER3025 Introduction to German Linguistics II** <br/>
+In this course, German semantics, pragmatics and the history of German are treated. It will also provide an introduction to Applied Linguistics.<br/>
+<br/>
+<br/>
 ### ILI2002 컴퓨터언어학 입문
 본 수업에서는 컴퓨터언어학(computational linguistics)의 기본개념과 응용분야에 대해 다룬다. 한국어와 영어를 대상으로 형태소분석, 구조분석, 의미분석 등의 개념과 이론 등을 다룬다. 언어분석에 대한 기본개념을 학습한 후에는 워드넷, 온톨로지 등과 같은 확장개념을 다루며, 기계번역과 텍스트마이닝 등과 같은 응용분야를 학습하게 된다. 본 수업을 수강하기 위해서는 언어학 입문 등과 같은 교양수업의 이수가 권장되나, 필수적이지는 않다. 또한 컴퓨터 프로그래밍에 대한 사전지식도 별도로 필요하지는 않다.
 
@@ -19,8 +18,6 @@ This course deals with the basic concepts and applications of computational ling
 <br/>
 <br/>
 <br/>
-*****
-<br/> 
 
 # 대학원 수업 Graduate Courses
 ### GER5006 현대독문법
