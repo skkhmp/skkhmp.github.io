@@ -7,6 +7,9 @@ permalink: /publications/
 구영은, 홍문표. (2019). "[범도메인 대화에서의 화행 자동분류 - 독일어 수업 대화와 전화 대화 분석을 통한 화행유형의 계층구조 제안](/papers/범도메인 대화에서의 화행 자동분류.pdf)". 독어학, 39(0), 25-49. <br/>
 Koo, Y., & Hong, M. (2019). "Automatische Klassifikation von Sprechakten in Domänenunabhängigen Gesprächen". *Koreanische Zeitschrift fur Deutsche Sprachwissenschaft*, 39(0), 25-49.
 
+# 2018
+구영은, 김지연, 홍문표, 김영길. (2018). "[한국어 수업 대화의 화행 분석과 화행 자동분류를 위한 언어학적 기반연구](/papers/한국어 수업 대화의 화행 분석과 화행 자동분류를 위한 언어학적 기반연구.pdf)". 정보과학회논문지, 45(8), 807-815.
+
 # 2016
 홍문표. (2016). "[대용어해소를 통한 독일어 텍스트 논조분석 방안](/papers/대용어해소를 통한 독일어 텍스트 논조분석 방안.pdf)". 독일언어문학, 73(0), 147-166. <br/>
 Hong, M. (2016). "Anaphernresolution fur die Sentimentanalyse deutscher Texte". *Zeitschrift fur Deutsche Sprache und Literatur*, 73(0), 147-166.
