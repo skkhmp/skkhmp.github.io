@@ -87,6 +87,9 @@ Hong. M. (2005). "Uber die Kollokation in der maschinellen Ubersetzung Koreanisc
 홍문표. (2004). "[한-독 기계번역의 대역어 선택 문제에 대하여](papers/한-독 기계번역의 대역어 선택 문제에 대하여.pdf)". 독어독문학(구 독일문학), 91(0), 304-323. <br/>
 Hong. M. (2004). "Uber die Zielwortselektion in der maschinellen Ubersetzung Koreanisch-Deutsch". *Koreanische Zeitschrift fur Germanistik*, 91(0), 304-323.
 
+# 2001
+Hong, Munpyo & Fissaha, Sisay & Haller, Johann. (2001). "Hybrid Filtering for Extraction of Term Candidates from German Technical Texts". 
+
 # 1999
 홍문표. (1999). "[UNL - 프로젝트에 대하여 - 독 / 영 기계 번역 시스템에 기반한 독일어 UNL - 분석기의 구현을 중심으로](/papers/UNL-프로젝트에 대하여_독영 기계 번역 시스템에 기반한 독일어 UNL-분석기의 구현을 중심으로.pdf)". 독어독문학(구 독일문학), 71(0), 550-573. <br/>
 Hong. M. (1999). "Die Implementierung eines UNL-Enconverters fur das Deutsche auf der Basis eines maschinellen Deutsch-Englisch Ubersetzungssystems". *Koreanische Zeitschrift fur Germanistik*, 71(0), 550-573.
