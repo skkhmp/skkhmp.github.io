@@ -6,10 +6,10 @@ permalink: /publications/
 
 # 2016
 홍문표. (2016). "[대용어해소를 통한 독일어 텍스트 논조분석 방안](/papers/대용어해소를 통한 독일어 텍스트 논조분석 방안.pdf)". 독일언어문학, 73(0), 147-166. <br/>
-Hong. M. (2016). "Anaphernresolution fur die Sentimentanalyse deutscher Texte". *Zeitschrift fur Deutsche Sprache und Literatur*, 73(0), 147-166.
+Hong, M. (2016). "Anaphernresolution fur die Sentimentanalyse deutscher Texte". *Zeitschrift fur Deutsche Sprache und Literatur*, 73(0), 147-166.
 
 홍문표. (2016). "[논조분석을 위한 반어의미 문장 자동분류](/papers/논조분석을 위한 반어의미 문장 자동분류.pdf)". 독어학, 33(0), 157-179.<br/>
-Hong. M. (2016). "Automatische Klassifizierung von ironischen Ausdrucken fur die Sentimentanalyse". *Koreanische Zeitschrift fur Deutsche Sprachwissenschaft*, 33(0), 157-179.
+Hong, M. (2016). "Automatische Klassifizierung von ironischen Ausdrucken fur die Sentimentanalyse". *Koreanische Zeitschrift fur Deutsche Sprachwissenschaft*, 33(0), 157-179.
 
 # 2015
 Park, A., Lim, S., & Hong, M. (2015). "[Zero object resolution in Korean](https://www.aclweb.org/anthology/Y15-1050.pdf)". In *Proceedings of the 29th Pacific Asia Conference on Language, Information and Computation*, 439-448.
@@ -30,66 +30,68 @@ Park, A., & Hong, M. (2015). Subjektellipse im Koreanischen und deren Behandlung
 Park, A., & Hong, M. (2014). "[Hybrid Approach to Zero Subject Resolution for multilingual MT-Spanish-to-Korean Cases](https://www.aclweb.org/anthology/Y14-1031.pdf)". In *Proceedings of the 28th Pacific Asia Conference on Language, Information and Computing*, 254-261. 
 
 홍문표. (2014). "[독일어 감정사전을 활용한 감성분석](/papers/독일어 감정사전을 활용한 감성분석.pdf)". 독어학, 30(0), 173-195. <br/>
-Hong. M. (2014). "Automatische Sentimentanalyse der deutschen Texte anhand eines Sentiment-Lexikons". *Koreanische Zeitschrift fur Deutsche Sprachwissenschaft*, 30(0), 173-195.
+Hong, M. (2014). "Automatische Sentimentanalyse der deutschen Texte anhand eines Sentiment-Lexikons". *Koreanische Zeitschrift fur Deutsche Sprachwissenschaft*, 30(0), 173-195.
 
 홍문표. (2014). "[바이그램을 활용한 텍스트 논조자동분석](/papers/바이그램을 활용한 텍스트 논조자동분석.pdf)". 독일언어문학, 65(0), 27-46. <br/>
-Hong. M. (2014). Bigramm-basierte Sentimentanalyse. *Zeitschrift fur Deutsche Sprache und Literatur*, 65(0), 27-46.
+Hong, M. (2014). Bigramm-basierte Sentimentanalyse. *Zeitschrift fur Deutsche Sprache und Literatur*, 65(0), 27-46.
 
 # 2013
 홍문표. (2013). "[독일어 텍스트 논조자동분석](/papers/독일어 텍스트 논조자동분석.pdf)". 독어학, 28(0), 361-383. <br/>
-Hong. M. (2013). "Automatische Sentimentanalyse deutscher Texte". *Koreanische Zeitschrift fur Deutsche Sprachwissenschaft*, 28(0), 361-383.
+Hong, M. (2013). "Automatische Sentimentanalyse deutscher Texte". *Koreanische Zeitschrift fur Deutsche Sprachwissenschaft*, 28(0), 361-383.
 
 홍문표. (2013). "[기계학습에 기반한 문장의미의 주관성/객관성 자동분류 방법 -독일어 트위터 문장을 중심으로](/papers/기계학습에 기반한 문장의미의 주관성,객관성 자동분류 방법.pdf)". 독일언어문학, 61(0), 47-67.<br/>
-Hong. M. (2013). "Automatische Klassifizierung der Subjektivitat der Satzbedeutungen anhand von maschinellem Lernen". *Zeitschrift fur Deutsche Sprache und Literatur*, 61(0), 47-67.
+Hong, M. (2013). "Automatische Klassifizierung der Subjektivitat der Satzbedeutungen anhand von maschinellem Lernen". *Zeitschrift fur Deutsche Sprache und Literatur*, 61(0), 47-67.
 
 # 2012
-Shin. M., Lee. H., & Hong. M. (2012) "[A hybrid approach to gene ranking using gene relation networks derived from literature for the identification of disease gene markers.](http://www.inderscience.com/offer.php?id=49250)" *International Journal of Data Mining and Bioinformatics (IJDMB)*, 6(3), 239-54.
+Shin, M., Lee, H., & Hong, M. (2012) "[A hybrid approach to gene ranking using gene relation networks derived from literature for the identification of disease gene markers.](http://www.inderscience.com/offer.php?id=49250)" *International Journal of Data Mining and Bioinformatics (IJDMB)*, 6(3), 239-54.
 
 # 2011
 홍문표. (2011). "[한-독 대화체 기계번역을 위한 주어생략현상의 처리방안](/papers/한-독 대화체 기계번역을 위한 주어생략현상의 처리방안.pdf)". 독어학, 24(0), 417-439.<br/>
-Hong. M. (2011). "Subjektellipse im gesprochenen Koreanischen und deren Behandlung fur die maschinelle Ubersetzung ins Deutsche". *Koreanische Zeitschrift fur Deutsche Sprachwissenschaft*, 24(0), 417-439.
+Hong, M. (2011). "Subjektellipse im gesprochenen Koreanischen und deren Behandlung fur die maschinelle Ubersetzung ins Deutsche". *Koreanische Zeitschrift fur Deutsche Sprachwissenschaft*, 24(0), 417-439.
 
 # 2010
-Lee. H., Shin. M., & Hong. M. (2010) "[A gene ranking method using text-mining for the identification of disease related genes](https://ieeexplore.ieee.org/document/5706616)," *2010 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*, Hong Kong, 493-498, doi: <10.1109/BIBM.2010.5706616>.
+Lee., H., Shin, M., & Hong, M. (2010) "[A gene ranking method using text-mining for the identification of disease related genes](https://ieeexplore.ieee.org/document/5706616)," *2010 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*, Hong Kong, 493-498, doi: <10.1109/BIBM.2010.5706616>.
 
 홍문표, 신미영, 박신혜, 이형민. (2010). "[구문분석과 기계학습 기반 하이브리드 텍스트 논조 자동분석](/papers/구문분석과 기계학습 기반 하이브리드 텍스트 논조 자동분석.pdf)". 언어와 정보, 14(2), 159-181.<br/>
-Hong. M., Shin. M., Park. S., & Lee. H.(2010). "Hybrid Approach to Sentiment Analysis based on Syntactic Analysis and Machine Learning". *LANGUAGE AND INFORMATION*, 14(2), 159-181.
+Hong, M., Shin, M., Park, S., & Lee, H.(2010). "Hybrid Approach to Sentiment Analysis based on Syntactic Analysis and Machine Learning". *LANGUAGE AND INFORMATION*, 14(2), 159-181.
 
 홍문표. (2010). "[통제언어의 관점에서 본 가독성과 번역수월성의 관계에 대한 연구](/papers/통제언어의 관점에서 본 가독성과 번역수월성의 관계에 대한 연구.pdf)". 독일언어문학, 48(0), 1-23. <br/>
-Hong. M. (2010). "Untersuchung zu den Beziehungen zwischen Lesbarkeit und Ubersetzbarkeit aus der Perspektive einer kontrollierten Sprache". *Zeitschrift fur Deutsche Sprache und Literatur*, 48(0), 1-23.
+Hong, M. (2010). "Untersuchung zu den Beziehungen zwischen Lesbarkeit und Ubersetzbarkeit aus der Perspektive einer kontrollierten Sprache". *Zeitschrift fur Deutsche Sprache und Literatur*, 48(0), 1-23.
 
 홍문표. (2010). "Pre-editing oder Post-editing? -통제언어와 포스트에디팅을 통한 독-한 기계번역시스템의 실무적용 가능성에 대하여-". 독어학, 21(0), 251-273. <br/>
-Hong. M. (2010). "Inhaltsverzeichnis : Pre-editing oder Post-editing? -Uber die Einsatzbarkeit eines Deutsch-Koreanisch MU Systems mithilfe der kontrollierten Sprache und des Post-editings". *Koreanische Zeitschrift fur Deutsche Sprachwissenschaft*, 21(0), 251-273.
+Hong, M. (2010). "Inhaltsverzeichnis : Pre-editing oder Post-editing? -Uber die Einsatzbarkeit eines Deutsch-Koreanisch MU Systems mithilfe der kontrollierten Sprache und des Post-editings". *Koreanische Zeitschrift fur Deutsche Sprachwissenschaft*, 21(0), 251-273.
 
 # 2009
 홍문표. (2009). "[자동논조분석 시스템 개발을 위한 독일어 텍스트의 논조별 어휘출현양상 연구](/papers/자동논조분석 시스템 개발을 위한 독일어 텍스트의 논조별 어휘출현양상 연구.pdf)". 독어독문학(구 독일문학), 111(0), 414-433.<br/>
-Hong. M. (2009). "Untersuchung zur Wortfrequenz in positiven/negativen Texten fur eine automatische Sentimentanalyse". *Koreanische Zeitschrift fur Germanistik*, 111(0), 414-433.
+Hong, M. (2009). "Untersuchung zur Wortfrequenz in positiven/negativen Texten fur eine automatische Sentimentanalyse". *Koreanische Zeitschrift fur Germanistik*, 111(0), 414-433.
 
 홍문표. (2009). "[텍스트 논조결정 요인에 대한 전산언어학적 기초연구](/papers/텍스트 논조결정 요인에 대한 전산언어학적 기초연구.pdf)". 독어학, 20(0), 285-308.<br/>
-Hong. M. (2009). "Computerlinguistische Studie zu den Entscheidungsfaktoren der Textsentiments". *Koreanische Zeitschrift fur Deutsche Sprachwissenschaft*, 20(0), 285-308.
+Hong, M. (2009). "Computerlinguistische Studie zu den Entscheidungsfaktoren der Textsentiments". *Koreanische Zeitschrift fur Deutsche Sprachwissenschaft*, 20(0), 285-308.
 
 # 2008
+Hong, M., & Kim, C. H. (2008). "[Controlled Korean for Korean-English MT](https://www.aclweb.org/anthology/Y08-1040.pdf)". In *Proceedings of the 22nd Pacific Asia Conference on Language, Information and Computation*, 391-396.
+
 홍문표. (2008). "[번역수월성의 관점에서 본 통제독일어, 통제영어, 통제한국어의 비교연구](/papers/번역수월성의 관점에서 본 통제독일어, 통제영어, 통제한국어의 비교연구.pdf)". 독어독문학(구 독일문학), 107(0), 286-308. <br/>
-Hong. M. (2008). "Komparative Untersuchung uber Kontrolliertes Deutsch, Kontrolliertes Englisch und Kontrolliertes Koreanisch im Hinblick auf die Ubersetzbarkeit". *Koreanische Zeitschrift fur Germanistik*, 107(0), 286-308.
+Hong, M. (2008). "Komparative Untersuchung uber Kontrolliertes Deutsch, Kontrolliertes Englisch und Kontrolliertes Koreanisch im Hinblick auf die Ubersetzbarkeit". *Koreanische Zeitschrift fur Germanistik*, 107(0), 286-308.
 
 홍문표. (2008). "[통제독일어가 번역수월성 향상에 미치는 영향에 대한 연구](/papers/통제독일어가 번역수월성 향상에 미치는 영향에 대한 연구.pdf)". 독일언어문학, 40(0), 21-43.<br/>
-Hong. M. (2008). "Uber die Moglichkeit zur Verbesserung der Ubersetzbarkeit durch Kontrollierts Deutsch". *Zeitschrift fur Deutsche Sprache und Literatur*, 40(0), 21-43.
+Hong, M. (2008). "Uber die Moglichkeit zur Verbesserung der Ubersetzbarkeit durch Kontrollierts Deutsch". *Zeitschrift fur Deutsche Sprache und Literatur*, 40(0), 21-43.
 
 # 2006
 홍문표. (2006). "[한국어 부사격 조사와 독일어 전치사간의 기계번역문제에 대하여](/papers/한국어 부사격 조사와 독일어 전치사간의 기계번역문제에 대하여.pdf)". 독어독문학(구 독일문학), 97(0), 277-296. <br/>
-Hong. M. (2006). "Die Behandlung der adverbialen Postpositionen in der Maschinellen Ubersetzung Koreanisch-Deutsch". *Koreanische Zeitschrift fur Germanistik*, 97(0), 277-296.
+Hong, M. (2006). "Die Behandlung der adverbialen Postpositionen in der Maschinellen Ubersetzung Koreanisch-Deutsch". *Koreanische Zeitschrift fur Germanistik*, 97(0), 277-296.
 
 # 2005
 홍문표. (2005). "[한-독 기계번역상의 연어처리 문제에 대해](/papers/한-독 기계번역상의 연어처리 문제에 대해.pdf)". 독일언어문학, 30(0), 39-60. <br/>
-Hong. M. (2005). "Uber die Kollokation in der maschinellen Ubersetzung Koreanisch-Deutsch". *Zeitschrift fur Deutsche Sprache und Literatur*, 30(0), 39-60.
+Hong, M. (2005). "Uber die Kollokation in der maschinellen Ubersetzung Koreanisch-Deutsch". *Zeitschrift fur Deutsche Sprache und Literatur*, 30(0), 39-60.
 
 # 2004
 홍문표. (2004). "[한-독 기계번역의 대역어 선택 문제에 대하여](papers/한-독 기계번역의 대역어 선택 문제에 대하여.pdf)". 독어독문학(구 독일문학), 91(0), 304-323. <br/>
-Hong. M. (2004). "Uber die Zielwortselektion in der maschinellen Ubersetzung Koreanisch-Deutsch". *Koreanische Zeitschrift fur Germanistik*, 91(0), 304-323.
+Hong, M. (2004). "Uber die Zielwortselektion in der maschinellen Ubersetzung Koreanisch-Deutsch". *Koreanische Zeitschrift fur Germanistik*, 91(0), 304-323.
 
 # 2001
-Hong, Munpyo & Fissaha, Sisay & Haller, Johann. (2001). "Hybrid Filtering for Extraction of Term Candidates from German Technical Texts". 
+Hong, M., Fissaha, S., & Haller, J. (2001). "Hybrid Filtering for Extraction of Term Candidates from German Technical Texts". 
 
 # 1999
 홍문표. (1999). "[UNL - 프로젝트에 대하여 - 독 / 영 기계 번역 시스템에 기반한 독일어 UNL - 분석기의 구현을 중심으로](/papers/UNL-프로젝트에 대하여_독영 기계 번역 시스템에 기반한 독일어 UNL-분석기의 구현을 중심으로.pdf)". 독어독문학(구 독일문학), 71(0), 550-573. <br/>
-Hong. M. (1999). "Die Implementierung eines UNL-Enconverters fur das Deutsche auf der Basis eines maschinellen Deutsch-Englisch Ubersetzungssystems". *Koreanische Zeitschrift fur Germanistik*, 71(0), 550-573.
+Hong, M. (1999). "Die Implementierung eines UNL-Enconverters fur das Deutsche auf der Basis eines maschinellen Deutsch-Englisch Ubersetzungssystems". *Koreanische Zeitschrift fur Germanistik*, 71(0), 550-573.
