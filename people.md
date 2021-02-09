@@ -22,7 +22,7 @@ She received her B.A. and M.A. in German Language and Literature at Sungkyunkwan
 
 She joined the lab as an undergraduate student in 2016. She received her B.A. in German Language and Literature and B.S. in Software Engineering at Sungkyunkwan University, Korea. She recieved her M.A. in German Language and Literature at Sungkyunkwan University. She started Ph.D. in 2020. Her research interests are **computational semantics**, **computational pragmatics**, **figurative languages** and **machine translation**. 
 
-**Email**: <kite92@skku.edu> **Webpage**: [kim-ji-youn.github.io](http://kim-ji-youn.github.io)  **[CV(Eng)](/cv/kim_eng)**
+**Email**: <kite92@skku.edu> **Webpage**: [kim-ji-youn.github.io](http://kim-ji-youn.github.io)  **[CV(Eng)](/cv/kim_eng.pdf)**
 
 
 <br />
