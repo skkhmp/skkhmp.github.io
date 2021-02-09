@@ -24,6 +24,8 @@ Hong, M. (2015). Regelbasierte Sentimentanalyse von Twitter anhand eines Sentime
 홍문표. (2015). ""[AntConc"를 활용한 독일어 전문용어후보 자동추출방안](http://www.riss.or.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=b0f698b20df38d1e47de9c1710b0298d)". 독일언어문학 0(68), 21-42. <br/>
 Hong, M. (2015). Extraktion der Termkandidaten aus deutschen technischen Texten mithilfe von "AntConc". *Zeitschrift fur Deutsche Sprache und Literatur*, 0(68), 21-42.
 
+홍문표. (2015). ""[AntConc"를 활용한 독일어 전문용어후보 자동추출방안](/papers/AntConc를 활용한 독일어 전문용어후보 자동추출방안.pdf)
+
 박아름, 홍문표. (2015) "[한-독 기계번역을 위한 한국어 영형 주어 처리연구](http://www.riss.or.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=c8e69d64922b89fde9810257f7042666)". 獨逸文學 56(1), 197-223. <br/>
 Park, A., & Hong, M. (2015). Subjektellipse im Koreanischen und deren Behandlung fur die maschinelle Ubersetzung ins Deutsche. *Dogil munhak*, 56(1), 197-233.
 
