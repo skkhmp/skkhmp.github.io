@@ -48,5 +48,5 @@ Hong. M. (2013). "Automatische Sentimentanalyse deutscher Texte". *Koreanische Z
 # 2007
 
 # 1999
-홍문표. (1999). "[UNL - 프로젝트에 대하여 - 독 / 영 기계 번역 시스템에 기반한 독일어 UNL - 분석기의 구현을 중심으로](papers/UNL-프로젝트에 대하여_독영 기계 번역 시스템에 기반한 독일어 UNL-분석기의 구현을 중심으로)". 독어독문학(구 독일문학), 71(0), 550-573. <br/>
+홍문표. (1999). "[UNL - 프로젝트에 대하여 - 독 / 영 기계 번역 시스템에 기반한 독일어 UNL - 분석기의 구현을 중심으로](papers/UNL-프로젝트에 대하여_독영 기계 번역 시스템에 기반한 독일어 UNL-분석기의 구현을 중심으로.pdf)". 독어독문학(구 독일문학), 71(0), 550-573. <br/>
 Hong. M. (1999). "Die Implementierung eines UNL-Enconverters fur das Deutsche auf der Basis eines maschinellen Deutsch-Englisch Ubersetzungssystems". *Koreanische Zeitschrift fur Germanistik*, 71(0), 550-573.
