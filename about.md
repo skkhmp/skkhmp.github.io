@@ -3,11 +3,17 @@ layout: page
 title: About
 permalink: /about/
 ---
-## 관심분야 Research Interest
+## 관심분야
 * 전산 언어학 Computational Linguistics
 * 의미 분석 Semantic Analysis
 * 기계 번역 Machine Translation
 * 언어 자원 Linguistic Resource
+
+## 연구성과
+* ETRI 동시통역시스템 개발을 위한 통역분절단위 연구
+* SK Telecom 인공지능스피커 개발을 위한 언어자원 구축 연구
+* ETRI 동시통역시스템 지니톡 개발을 위한 연구
+* 한-영 특허문서 자동번역시스템 개발
 
 ## 학력
 * 서울대학교 독어독문학과 학사
