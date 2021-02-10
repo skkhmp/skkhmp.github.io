@@ -3,8 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
-## Current projects
-## Previous projects
+
 1. **실시간성을 고려한 동시통역의 분절단위 연구** <br/>
   2020.03 – 2020.12<br/>
   한국전자통신연구원(ETRI)<br/>
