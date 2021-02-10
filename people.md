@@ -4,7 +4,7 @@ title: People
 permalink: /people/
 ---
 
-## 재학생 Graduate Students
+## 재학생 Current Students
 
 {% include image.html url="/images/koo.jpg" width=200 height=400 align="left" %}
 ## 구영은(Koo, Youngeun)
