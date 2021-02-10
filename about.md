@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-{% include image.html url="/images/hong.jpg" width=300 height=500 align="left" %}
+{% include image.html url="/images/hong.png" width=300 height=500 align="left" %}
 
 ## Munpyo Hong, Ph.D. 
 Professor <br/>
