@@ -14,10 +14,9 @@ Department of German Language and Literature <br/>
 Sungkyunkwan University <br/>
 Seoul, South Korea <br/>
 skkhmp@skku.edu <br/>
-/+ 82 2-760-0294
++82 2-760-0294
 
-<br/>
-<br/>
+
 ## 학력
 * **서울대학교 독어독문학과 학사**
 * **서울대학교 독어독문학과 석사**
