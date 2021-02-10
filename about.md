@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
+
 {% include image.html url="/images/hong.jpg" width=300 height=500 align="left" %}
 
 ## Munpyo Hong, Ph.D. 
@@ -13,7 +14,7 @@ Department of German Language and Literature <br/>
 Sungkyunkwan University <br/>
 Seoul, South Korea <br/>
 skkhmp@skku.edu <br/>
-+ 82 2-760-0294
+/+ 82 2-760-0294
 
 <br/>
 <br/>
