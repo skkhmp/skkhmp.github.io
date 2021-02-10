@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Teaching
-permalink: /teaching/
+title: Members
+permalink: /members/
 ---
 # 학부수업 Undergraduate Courses
 ### GER3025 독어학개론 II
