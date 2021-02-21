@@ -44,7 +44,7 @@ He is a graduate student in the lab. He majored in German Language and Literatur
 
 She is an undergraduate researcher in the lab. She major in German Language and Literature at Sungkyunkwan University. She will study for a master's degree from Fall 2021 at Sungkyunkwan University. Her research interests include **computational linguistics**, **neurolinguistics** and **probabilistic models of cognition**.
 
-**Email**: <chaerinson@skku.edu>
+**Email**: <chaerinson@skku.edu>   **[CV(Eng)](/cv/son_eng.pdf)**
 
 <br/>
 ## 졸업생 Alumni
