@@ -40,9 +40,9 @@ He is a graduate student in the lab. He majored in German Language and Literatur
 {% include image.html url="/images/son.jpg" width=200 height=400 align="left" %}
 
 ## 손채린(Son, Chaerin)
-손채린은 성균관대학교 독어독문학과 학사 과정에 재학 중입니다. 2021년 성균관대학교 독어독문학과 석사 과정에 진학할 예정입니다. 관심 연구분야는 **전산 언어학, 신경 언어학, 인지적 확률 모델**입니다.
+손채린은 성균관대학교 독어독문학과 학사 과정에 재학 중인 학사 연구생입니다. 2021년 성균관대학교 독어독문학과 석사 과정에 진학할 예정입니다. 관심 연구분야는 **전산 언어학, 신경 언어학, 인지적 확률 모델**입니다.
 
-She is an undergraduate researcher in the lab. She major in German Language and Literature at Sungkyunkwan University. She will study for a master's degree from Fall 2021 at Sungkyunkwan University. Her research interests include **computational linguistics**, **neurolinguistics** and **probabilistic models of cognition**.
+She is an undergraduate researcher in the lab. She is studying in the Department of German Language and Literature at Sungkyunkwan University. She will study for her master's degree from fall of 2021 at Sungkyunkwan University. Her research interests include **computational linguistics**, **neurolinguistics** and **probabilistic models of cognition**.
 
 **Email**: <chaerinson@skku.edu>   **[CV(Eng)](/cv/son_eng.pdf)**
 
