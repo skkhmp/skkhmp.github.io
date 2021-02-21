@@ -123,3 +123,6 @@ Hong, M., Fissaha, S., & Haller, J. (2001). "Hybrid Filtering for Extraction of 
 # 1999
 홍문표. (1999). "[UNL - 프로젝트에 대하여 - 독 / 영 기계 번역 시스템에 기반한 독일어 UNL - 분석기의 구현을 중심으로](/papers/UNL-프로젝트에 대하여_독영 기계 번역 시스템에 기반한 독일어 UNL-분석기의 구현을 중심으로.pdf)". 독어독문학(구 독일문학), 71(0), 550-573. <br/>
 Hong, M. (1999). "Die Implementierung eines UNL-Enconverters fur das Deutsche auf der Basis eines maschinellen Deutsch-Englisch Ubersetzungssystems". *Koreanische Zeitschrift fur Germanistik*, 71(0), 550-573.
+
+# 1998
+Hong M. (1998). "[Multiple-Subject Constructions in the Multilingual MT-System CAT2](https://doi.org/10.1007/3-540-49478-2_1)". In: Farwell D., Gerber L., Hovy E. (eds) *Machine Translation and the Information Soup*. AMTA 1998. Lecture Notes in Computer Science, 1529(0). Springer, Berlin, Heidelberg. 
