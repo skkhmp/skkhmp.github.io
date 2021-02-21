@@ -20,7 +20,7 @@ She received her B.A. and M.A. in German Language and Literature at Sungkyunkwan
 ## 김지연(Kim, Jiyoun)
 김지연은 성균관대학교 독어독문과와 소프트웨어 융합전공을 전공하여 학부를 마치고, 성균관대학교 독어독문학과에서 석사 학위를 수여하였습니다.  2020년부터 박사 과정을 시작하였습니다. 관심 연구분야는 **전산 의미론, 전산 화용론, 비유언어, 기계번역** 입니다. 
 
-She joined the lab as an undergraduate student in 2016. She received her B.A. in German Language and Literature and B.S. in Software Engineering at Sungkyunkwan University, Korea. She recieved her M.A. in German Language and Literature at Sungkyunkwan University. She started Ph.D. in 2020. Her research interests are **computational semantics**, **computational pragmatics**, **figurative languages** and **machine translation**. 
+She joined the lab as an undergraduate researcher in 2016. She received her B.A. in German Language and Literature and B.S. in Software Engineering at Sungkyunkwan University, Korea. She recieved her M.A. in German Language and Literature at Sungkyunkwan University. She started Ph.D. in 2020. Her research interests are **computational semantics**, **computational pragmatics**, **figurative languages** and **machine translation**. 
 
 **Email**: <kite92@skku.edu> **Webpage**: [kim-ji-youn.github.io](http://kim-ji-youn.github.io)  **[CV(Eng)](/cv/kim_eng.pdf)**
 
@@ -34,6 +34,17 @@ She joined the lab as an undergraduate student in 2016. She received her B.A. in
 He is a graduate student in the lab. He majored in German Language and Literature and Interdisciplinary Linguistics as an undergraduate student at Sungkyunkwan University. He entered graduate school in summer of 2020. His research interest is **emotion analysis**. He is especially interested in how emotions are expressed and detected in natural language texts.
 
 **Email**: <jphong2800@skku.edu>
+
+<br/>
+<br />
+{% include image.html url="/images/son.jpg" width=200 height=400 align="left" %}
+
+## 손채린(Son, Chaerin)
+손채린은 성균관대학교 독어독문학과 학사 과정에 재학 중입니다. 2021년 성균관대학교 독어독문학과 석사 과정에 진학할 예정입니다. 관심 연구분야는 전산 언어학, 신경 언어학, 인지적 확률 모델입니다.
+
+She is an undergraduate researcher in the lab. She major in German Language and Literature at Sungkyunkwan University. She will study for a master's degree from Fall 2021 at Sungkyunkwan University. Her research interests include **computational linguistics**, **neurolinguistics** and **probabilistic models of cognition**.
+
+**Email**: <chaerinson@skku.edu>
 
 <br/>
 ## 졸업생 Alumni
