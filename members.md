@@ -8,7 +8,7 @@ permalink: /members/
 
 {% include image.html url="/images/koo.jpg" width=200 height=400 align="left" %}
 ## 구영은(Koo, Youngeun)
-구영은은 성균관대학교 독어독문학과에서 학사, 석사를 마쳤습니다. 2018년 성균관대학교 독어독문학과 박사과정에 진학하였으며, 현재 박사학위논문을 작성중입니다. 관심 연구분야는 **전산 화용론, 대화 분석, 대화 시스템, 챗봇, 동시통역**입니다.
+구영은은 성균관대학교 독어독문학과에서 학사, 석사 학위를 취득하였습니다. 2018년 성균관대학교 독어독문학과 박사과정에 진학하였으며, 현재 박사학위논문을 준비중입니다. 관심 연구분야는 **전산 화용론**, **대화 분석**, **대화 시스템**, **챗봇**, **동시통역**입니다.
 
 She received her B.A. and M.A. in German Language and Literature at Sungkyunkwan University, Korea. She started Ph.D. in 2018 and currently working on her Ph.D. dissertation. Her research interests are **computational pragmatics**, **conversational analysis**, **dialog system**, **chatbot** and **simultaneous interpretation**.
 
