@@ -31,7 +31,7 @@ Jiyoun joined the lab as an undergraduate researcher in 2016. She received her B
 ## 강보영(Kang, Boyoung Brenda)
 강보영은 연세대학교에서 공학사와 경영학사, 미국 조지워싱턴(George Washington) 대학교에서 경영학 석사(MBA) 및 한국과학기술원(KAIST) 미래전략대학원에서 공학석사 학위를 취득하였습니다. 오랜기간 경영 컨설턴트와 교육 컨설턴트로 활동 하였으며 인공지능, 블록체인 기술을 포함한 과학기술과 인문학의 융합 연구 및 미래연구에 관심이 많습니다. 2021년 성균관대학교 미래인문학소셜 앙트레프레너십 융합전공 박사과정에 진학하였으며 연구주제는 **사회문제해결을 위한 텍스트마이닝, 자연어 처리와 챗봇 개발**입니다.
 
-Boyoung Brenda(BB) received her B.S. and B.BA. at Yonsei University, Korea. She studied finance in MBA program at George Washington University and future strategies at KAIST, and started Ph.D. in 2021. Her research interests are interdisciplinary future studies with artificial intelligence, text mining, NLP, and chatbot development to help solve social problems. 
+Boyoung Brenda(BB) received her B.S. and B.BA. at Yonsei University, Korea. She studied finance in MBA program at George Washington University and future strategies at KAIST, and started Ph.D. in 2021. Her research interests are interdisciplinary future studies with **artificial intelligence, text mining, NLP, and chatbot development** to help solve social problems. 
 
 **Email**: <bykang2015@gmail.com> **YouTube**: [강보영의 퓨처살롱](https://www.youtube.com/channel/UCJcvkUOlIGL-xPNczLPj4mQ)  **[CV(Eng)](/cv/BB_Kang_CV.pdf)**
 
