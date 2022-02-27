@@ -50,12 +50,12 @@ Jungpyo is a graduate student in the lab. He majored in German Language and Lite
 <br />
 {% include image.html url="/images/profile.png" width=200 height=400 align="left" %}
 
-## 손채린(Son, Chaerin)
-손채린은 성균관대학교 독어독문학과 학사 과정에 재학 중인 학사 연구생입니다. 2021년 성균관대학교 독어독문학과 석사 과정에 진학할 예정입니다. 관심 연구분야는 **전산 언어학, 신경 언어학, 인지적 확률 모델**입니다.
+## 조가영(Cho, Gayoung)
+조가영은 성균관대학교 독어독문학과 석사 과정에 재학 중인 학생입니다. 공주대학교 독어독문학과에서 학사 학위를 취득하였습니다. 2022년에 성균관대학교 독어독문학과 석사과정에 진학하였습니다. 관심 연구분야는 **기계번역, 전산언어학** 입니다.
 
-Chaerin is an undergraduate researcher in the lab. She is studying in the Department of German Language and Literature at Sungkyunkwan University. She will study for her master's degree from fall of 2021 at Sungkyunkwan University. Her research interests include **computational linguistics**, **neurolinguistics** and **probabilistic models of cognition**.
+Gayoung is a graduate student in the lab. She majored in German Language and Literature and Interdisciplinary Linguistics as an undergraduate student at Gongju National University. She entered graduate school in 2022. Her research interest is **machine translation and computational linguistics**. 
 
-**Email**: <chaerinson@skku.edu>   **[CV(Eng)](/cv/son_eng.pdf)**
+**Email**: <kittyjoy@naver.com>  
 
 <br/>
 ## 졸업생 Alumni
