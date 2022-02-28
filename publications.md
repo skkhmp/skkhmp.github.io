@@ -3,6 +3,12 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
+# 2021
+강보영, 홍문표. (2021). “[텍스트 마이닝을 통한 리터러시 융합 교육: 영화 <액트오브킬링>을 중심으로](/papers/act_of_killing.pdf)”, 예술교육연구, 19(3), 325-341.
+
+구영은, 홍문표. (2021). "[독일어 대화의 자동 분절 방법 - 대화 자동 요약을 위하여](/papers/automatic_summarization.pdf)", 독어독문학, 160(1), 77-98. <br/>
+
+
 # 2020
 Koo, Y., Kim, J., Hong, J., Hong, M., & Choi. S-K. (2020). “[Towards a Linguistically Motivated Segmentation for a Simultaneous Interpretation System](/papers/Towards a Linguistically Motivated Segmentation for a Simultaneous Interpretation System.pdf)”, In *Proceeding of the 34th Pacific Asia Conference on Language, Information and Computation*, 2020.
 
